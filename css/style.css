@@ -224,6 +224,11 @@ h6 {
   background-color: var(--desaturated-dark-blue);
 }
 
+/* Utils */
+.d-none {
+  display: none;
+}
+
 /**************************************/
 /* Responsive styling */
 /**************************************/
